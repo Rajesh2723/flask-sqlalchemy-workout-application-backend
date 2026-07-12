@@ -2,7 +2,7 @@
 
 This is a python Flask-based backend application that demonstrates a many-to-many relationship between exercises and workouts. An exercise can be linked to multiple workouts and a single workout can be linked to multiple exercises. 
 
-Exercise and workout are represented as object models to retrieve, modify and store data in the database. It also includes endpoints which help a front-end application to interact with an API data. This API data is validated at both the database level and schema level to enable correct serialization and deserialization.
+Exercise and workout are represented as object models to retrieve, modify and store data in the database. It also includes endpoints which help a front-end application to interact with an API data. This API data is validated at both the database level and schema level to enable correct serialization and deserialization.  
 
 The following are ways you can interact with the Workout Application Backend API which is implemented by an SQLITE engine.
 
