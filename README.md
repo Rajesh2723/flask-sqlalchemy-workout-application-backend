@@ -31,7 +31,7 @@ exercise_payload = {
     "category": <String>,
     "equipment_needed": <Boolean>
 
-}
+}  
 ```
 ```bash
 POST /workouts/{id} #workout
