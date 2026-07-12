@@ -90,7 +90,7 @@ Use Pip to install python packages:
 
 ```bash
 pip install -r requirements.txt
-```
+``` 
 
 
 ## Running the project
