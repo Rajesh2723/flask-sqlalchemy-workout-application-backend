@@ -1,4 +1,4 @@
-# Flask SQLAlchemy Workout Application Backend Project
+# Flask SQLAlchemy Workout Application Backend Project  
 
 This is a python Flask-based backend application that demonstrates a many-to-many relationship between exercises and workouts. An exercise can be linked to multiple workouts and a single workout can be linked to multiple exercises. 
 
